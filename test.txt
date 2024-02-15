@@ -173,10 +173,3 @@ CCTV17 ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m3u8
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000073
 辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611
 辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000070
-大连新闻综合,http://iptv.cooltv.top/tv/cutv.php?id=dlxwzh
-大连生活,http://iptv.cooltv.top/tv/cutv.php?id=dlsh 
-大连公共,http://iptv.cooltv.top/tv/cutv.php?id=dlgg 
-大连文体,http://iptv.cooltv.top/tv/cutv.php?id=dlwt 
-大连综合影视,http://iptv.cooltv.top/tv/cutv.php?id=dlzhys 
-大连少儿,http://iptv.cooltv.top/tv/cutv.php?id=dlse 
-大连财经,http://iptv.cooltv.top/tv/cutv.php?id=dlcj 
